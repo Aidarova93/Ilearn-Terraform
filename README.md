@@ -27,7 +27,7 @@ Use Terraform to provision an Azure virtual machine scale set running Wordpress.
 
 * Login to your Azure Cloud Provider  
 * Select Billing Account under hamburger menu 
-* Create a Billing Account For ex: in this project we created  used Yusuf Acoount billing
+* Create a Billing Account
 
 
 
